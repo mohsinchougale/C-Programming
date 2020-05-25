@@ -230,32 +230,3 @@ Age:  28
 Wife's name: Temari 
 Name of child:  Shikadai
 This member is ACTIVE.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
